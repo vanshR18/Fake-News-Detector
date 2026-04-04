@@ -30,20 +30,21 @@
   - Loading trained model for inference
   - Optimizing prediction pipeline
 
----
-
-### 🚧 In Progress
 - 🌐 **Backend (FastAPI)**
   - `/predict` API endpoint for real-time inference
   - Input validation using Pydantic schemas
   - Model serving with optimized loading
 
- ---
- 
-### 🛠️ To Be Built
+---
+
+### 🚧 In Progress
 - 🎨 **Frontend (Gradio / HuggingFace Spaces)**
   - Simple UI for users to input news text
   - Display prediction (Fake / Real) with confidence score
+
+ ---
+ 
+### 🛠️ To Be Built
 
 - 🚀 **Deployment**
   - Deploy FastAPI backend
